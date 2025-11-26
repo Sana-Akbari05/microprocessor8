@@ -13,7 +13,7 @@
 مشاهده خروجی :
 
 مشاهده کد:
-
+8/keypad/keypad.ino
 مشاهده شماتیک:
 <img width="1461" height="632" alt="keypad_schematic" src="https://github.com/user-attachments/assets/32887285-1351-44c5-8e88-37bd26935feb" />
 
@@ -33,6 +33,7 @@ https://github.com/user-attachments/assets/3a99e431-aa79-456d-a46f-8e4e0253fdc7
 
 
 مشاهده کد:
+8/calculator/calculator.ino
 مشاهده شماتیک:
 <img width="1461" height="632" alt="keypad_schematic" src="https://github.com/user-attachments/assets/11a69bbe-6d8e-414d-9a48-dca6b0094118" />
 
@@ -46,6 +47,7 @@ https://github.com/user-attachments/assets/c1130f5b-95f7-4736-92a0-8489383a46e9
 
 :
 مشاهده کد:
+8/password/password.ino
 مشاهده شماتیک:
 <img width="1461" height="632" alt="keypad_schematic" src="https://github.com/user-attachments/assets/145d070b-9876-4b7a-8dfc-c2474c698518" />
 
